@@ -1,0 +1,301 @@
+EESchema Schematic File Version 2  date Sa 16 Mär 2013 19:54:25 CET
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:w_connectors
+LIBS:cherry
+LIBS:pollex_agilis-cache
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "noname.sch"
+Date "16 mar 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX SW?
+U 1 1 5144BFC2
+P 3050 2050
+F 0 "SW?" H 3050 2100 60  0000 C CNN
+F 1 "MX" H 3050 2000 60  0000 C CNN
+F 2 "" H 3050 2050 60  0000 C CNN
+F 3 "" H 3050 2050 60  0000 C CNN
+	1    3050 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144BFD1
+P 3350 2050
+F 0 "D?" H 3350 1950 60  0000 C CNN
+F 1 "D" H 3350 2150 60  0000 C CNN
+F 2 "" H 3350 2050 60  0000 C CNN
+F 3 "" H 3350 2050 60  0000 C CNN
+	1    3350 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144BFDE
+P 3750 2050
+F 0 "SW?" H 3750 2100 60  0000 C CNN
+F 1 "MX" H 3750 2000 60  0000 C CNN
+F 2 "" H 3750 2050 60  0000 C CNN
+F 3 "" H 3750 2050 60  0000 C CNN
+	1    3750 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144BFE4
+P 4050 2050
+F 0 "D?" H 4050 1950 60  0000 C CNN
+F 1 "D" H 4050 2150 60  0000 C CNN
+F 2 "" H 4050 2050 60  0000 C CNN
+F 3 "" H 4050 2050 60  0000 C CNN
+	1    4050 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144BFEA
+P 4450 2050
+F 0 "SW?" H 4450 2100 60  0000 C CNN
+F 1 "MX" H 4450 2000 60  0000 C CNN
+F 2 "" H 4450 2050 60  0000 C CNN
+F 3 "" H 4450 2050 60  0000 C CNN
+	1    4450 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144BFF0
+P 4750 2050
+F 0 "D?" H 4750 1950 60  0000 C CNN
+F 1 "D" H 4750 2150 60  0000 C CNN
+F 2 "" H 4750 2050 60  0000 C CNN
+F 3 "" H 4750 2050 60  0000 C CNN
+	1    4750 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144BFF6
+P 3050 2500
+F 0 "SW?" H 3050 2550 60  0000 C CNN
+F 1 "MX" H 3050 2450 60  0000 C CNN
+F 2 "" H 3050 2500 60  0000 C CNN
+F 3 "" H 3050 2500 60  0000 C CNN
+	1    3050 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144BFFC
+P 3350 2500
+F 0 "D?" H 3350 2400 60  0000 C CNN
+F 1 "D" H 3350 2600 60  0000 C CNN
+F 2 "" H 3350 2500 60  0000 C CNN
+F 3 "" H 3350 2500 60  0000 C CNN
+	1    3350 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144C002
+P 3750 2500
+F 0 "SW?" H 3750 2550 60  0000 C CNN
+F 1 "MX" H 3750 2450 60  0000 C CNN
+F 2 "" H 3750 2500 60  0000 C CNN
+F 3 "" H 3750 2500 60  0000 C CNN
+	1    3750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144C008
+P 4050 2500
+F 0 "D?" H 4050 2400 60  0000 C CNN
+F 1 "D" H 4050 2600 60  0000 C CNN
+F 2 "" H 4050 2500 60  0000 C CNN
+F 3 "" H 4050 2500 60  0000 C CNN
+	1    4050 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144C00E
+P 4450 2500
+F 0 "SW?" H 4450 2550 60  0000 C CNN
+F 1 "MX" H 4450 2450 60  0000 C CNN
+F 2 "" H 4450 2500 60  0000 C CNN
+F 3 "" H 4450 2500 60  0000 C CNN
+	1    4450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144C014
+P 4750 2500
+F 0 "D?" H 4750 2400 60  0000 C CNN
+F 1 "D" H 4750 2600 60  0000 C CNN
+F 2 "" H 4750 2500 60  0000 C CNN
+F 3 "" H 4750 2500 60  0000 C CNN
+	1    4750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144C01A
+P 3050 3000
+F 0 "SW?" H 3050 3050 60  0000 C CNN
+F 1 "MX" H 3050 2950 60  0000 C CNN
+F 2 "" H 3050 3000 60  0000 C CNN
+F 3 "" H 3050 3000 60  0000 C CNN
+	1    3050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144C020
+P 3350 3000
+F 0 "D?" H 3350 2900 60  0000 C CNN
+F 1 "D" H 3350 3100 60  0000 C CNN
+F 2 "" H 3350 3000 60  0000 C CNN
+F 3 "" H 3350 3000 60  0000 C CNN
+	1    3350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144C026
+P 3750 3000
+F 0 "SW?" H 3750 3050 60  0000 C CNN
+F 1 "MX" H 3750 2950 60  0000 C CNN
+F 2 "" H 3750 3000 60  0000 C CNN
+F 3 "" H 3750 3000 60  0000 C CNN
+	1    3750 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144C02C
+P 4050 3000
+F 0 "D?" H 4050 2900 60  0000 C CNN
+F 1 "D" H 4050 3100 60  0000 C CNN
+F 2 "" H 4050 3000 60  0000 C CNN
+F 3 "" H 4050 3000 60  0000 C CNN
+	1    4050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX SW?
+U 1 1 5144C032
+P 4450 3000
+F 0 "SW?" H 4450 3050 60  0000 C CNN
+F 1 "MX" H 4450 2950 60  0000 C CNN
+F 2 "" H 4450 3000 60  0000 C CNN
+F 3 "" H 4450 3000 60  0000 C CNN
+	1    4450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L D D?
+U 1 1 5144C038
+P 4750 3000
+F 0 "D?" H 4750 2900 60  0000 C CNN
+F 1 "D" H 4750 3100 60  0000 C CNN
+F 2 "" H 4750 3000 60  0000 C CNN
+F 3 "" H 4750 3000 60  0000 C CNN
+	1    4750 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2950 1900 2850 1900
+Wire Wire Line
+	2850 1900 2850 2850
+Wire Wire Line
+	2850 2350 2950 2350
+Wire Wire Line
+	2850 2850 2950 2850
+Connection ~ 2850 2350
+Wire Wire Line
+	3650 1900 3550 1900
+Wire Wire Line
+	3550 1900 3550 2850
+Wire Wire Line
+	3550 2350 3650 2350
+Wire Wire Line
+	3550 2850 3650 2850
+Connection ~ 3550 2350
+Wire Wire Line
+	4350 1900 4250 1900
+Wire Wire Line
+	4250 1900 4250 2850
+Wire Wire Line
+	4250 2350 4350 2350
+Wire Wire Line
+	4250 2850 4350 2850
+Connection ~ 4250 2350
+Wire Wire Line
+	3400 2500 3400 2650
+Wire Wire Line
+	3400 2650 4800 2650
+Wire Wire Line
+	4100 2650 4100 2500
+Wire Wire Line
+	4800 2650 4800 2500
+Connection ~ 4100 2650
+Wire Wire Line
+	3400 2050 3400 2200
+Wire Wire Line
+	3400 2200 4800 2200
+Wire Wire Line
+	4100 2200 4100 2050
+Wire Wire Line
+	4800 2200 4800 2050
+Connection ~ 4100 2200
+Wire Wire Line
+	3400 3000 3400 3150
+Wire Wire Line
+	3400 3150 4800 3150
+Wire Wire Line
+	4100 3150 4100 3000
+Wire Wire Line
+	4800 3150 4800 3000
+Connection ~ 4100 3150
+$EndSCHEMATC
