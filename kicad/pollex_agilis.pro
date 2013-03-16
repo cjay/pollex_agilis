@@ -1,11 +1,6 @@
-update=Fr 15 Mär 2013 22:10:53 CET
+update=Sa 16 Mär 2013 19:17:00 CET
 version=1
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=
@@ -24,7 +19,6 @@ EdgeLar=80
 TxtLar=120
 MSegLar=120
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -36,6 +30,10 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
+LibName12=lib/key64/cherry
+LibName13=lib/key64/SW1
+LibName14=lib/w_pin_strip
+LibDir=
 [general]
 version=1
 [eeschema]
@@ -79,3 +77,8 @@ LibName29=contrib
 LibName30=valves
 LibName31=lib/w_connectors
 LibName32=lib/key64/cherry
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
